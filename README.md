@@ -1,18 +1,11 @@
-## Hi there 👋
 
-**BiaReisz/BiaReisz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-## BOAS VINDAS AO MEU PERFIL
+## BEM - VINDO AO MEU PERFIL ✋
 
 Meu nome é **Beatriz Reis**
 
-.estou estudando no Alura
+Sou estudante do *Alura*;
 
-.estou me desenvolvendo na linguagem javascript
+Estou me desenvolvendo na linguagem Javascript;
 
-.utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
+Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos.
 
-## VOCÊ PODE ENTRAR EM CONTATO COMIGO
-
-alurastartestudante@gmail.com
-@alurastartestudante
