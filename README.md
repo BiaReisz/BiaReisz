@@ -3,9 +3,9 @@
 
 Meu nome é **Beatriz Reis**
 
-Sou estudante do *Alura*;
+Cursando ADS - Análise e Desenvolvimento de Sistemas na FGV 
 
-Estou me desenvolvendo na linguagem Javascript;
+Estou me desenvolvendo na linguagem python;
 
 Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos.
 
